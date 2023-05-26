@@ -1,0 +1,9 @@
+opencv-python  
+pytorch >= 1.0  
+torchvision >= 0.4. 
+matplotlib
+cython
+numpy == 1.17
+Pillow
+tqdm
+pycocotools
